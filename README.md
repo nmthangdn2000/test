@@ -31,12 +31,11 @@
     <img src="images/logo.png" alt="Logo" width="180">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">WREF</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Mobile Agriculture Application provide the best services to Vietnamese farmers and pesticide shops
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>

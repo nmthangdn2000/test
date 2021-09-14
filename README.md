@@ -27,8 +27,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="120" height="120">
+  <a href="https://github.com/uptimum/AnCv_SF_UH21">
+    <img src="images/logo.png" alt="Logo" width="180">
   </a>
 
   <h3 align="center">Best-README-Template</h3>

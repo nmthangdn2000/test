@@ -51,135 +51,49 @@
 
 ## About The Project
 
+AnCv will build a Mobile Agriculture Application called WREF to provide the best services to Vietnamese farmers and pesticide shops.
+
+### Application for farmers
+
+<br/>
 <p  float="left" align="middle">
   <img src="images/about1.jpg" alt="about1" width="180"> 
   <img src="images/about2.jpg" alt="about2" width="180">
   <img src="images/about3.jpg" alt="about3" width="180">
 </p>
 
-AnCv will build a Mobile Agriculture Application called WREF to provide the best services to Vietnamese farmers and pesticide shops.
+Farmers need a cheap product that solves all their problems: natural disasters, diseases, wrong pesticide products and low yields.
 
-Detailed description:
+- Use AI to recognize images and diagnose diseases on trees, thereby recommending solutions and products to use.
+- Use RS and AI to predict crop yields.
+- Use OpenWeather API and AI for flood prediction and early weather forecast.
 
-- The problems of Agriculture we want to solve:
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+In addition, farmers can also directly order agricultural tools, fertilizers, pesticides, etc. from the retailers in the system.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+### Application for pesticides retailers
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+<br/>
+<p  float="left" align="middle">
+  <img src="images/about1.jpg" alt="about1" width="180"> 
+  <img src="images/about2.jpg" alt="about2" width="180">
+  <img src="images/about3.jpg" alt="about3" width="180">
+</p>
 
-### Built With
+Pesticides retailers will use a secondary application to be able to post the products being sold in the store to the system, if a farmer places an order, they can clearly see the farmer's information. when they order products on the app.
 
-Programming languages: [Java](https://getbootstrap.com), [Kotlin](https://getbootstrap.com), [Python](https://getbootstrap.com), [Dart](https://getbootstrap.com), [Javascript](https://getbootstrap.com), [Php](https://getbootstrap.com)
+## Tech Stack
 
-Core technologies
+### Technology used
+
+- Font-End: [Java](https://getbootstrap.com), [Kotlin](https://getbootstrap.com), [Dart](https://getbootstrap.com).
+
+- Back-End: [Node.js](https://getbootstrap.com) (Express.js), [Php](https://getbootstrap.com) (Larvel).
+- IDE: [Android studio](https://getbootstrap.com), [VS Code](https://getbootstrap.com) (Larvel), [Pycharm](https://getbootstrap.com) (Larvel).
+
+### Core technologies
 
 - [AI](https://getbootstrap.com)
 - [RS](https://jquery.com)
 - [Openweather API](https://laravel.com)
 
 <!-- GETTING STARTED -->
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Img Shields](https://shields.io)
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Pages](https://pages.github.com)
-- [Animate.css](https://daneden.github.io/animate.css)
-- [Loaders.css](https://connoratherton.com/loaders)
-- [Slick Carousel](https://kenwheeler.github.io/slick)
-- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-- [Sticky Kit](http://leafo.net/sticky-kit)
-- [JVectorMap](http://jvectormap.com)
-- [Font Awesome](https://fontawesome.com)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png

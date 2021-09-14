@@ -50,9 +50,11 @@
 
 ## About The Project
 
-<img src="images/about1.jpg" alt="about1" width="180"> 
-<img src="images/about2.jpg" alt="about2" width="180">
-<img src="images/about3.jpg" alt="about3" width="180">
+<p  float="left">
+  <img src="images/about1.jpg" alt="about1" width="180"> 
+  <img src="images/about2.jpg" alt="about2" width="180">
+  <img src="images/about3.jpg" alt="about3" width="180">
+</p>
 
 AnCv will build a Mobile Agriculture Application called WREF to provide the best services to Vietnamese farmers and pesticide shops.
 

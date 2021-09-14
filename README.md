@@ -5,10 +5,10 @@
     <img src="images/logo.png" alt="Logo" width="180">
   </a>
 
-  <h3 align="center"><b>WREF</b></h3>
+<ins><h1 align="center"><b>WREF</b></h1></ins>
 
   <p align="center">
-    Mobile Agriculture Application
+    <b>Mobile Agriculture Application</b>
     <br />
     Provide the best services to Vietnamese farmers and pesticide shops
     <br />
@@ -28,22 +28,25 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>
+          <a href="#application-for-farmers">Application for farmers</a>
+        </li>
+        <li>
+         <a href="#application-for-pesticides-retailers">Application for pesticides retailers</a>
+        </li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#tech-stack">Tech Stack</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li>
+          <a href="#technology-used">Technology used</a>
+        </li>
+        <li>
+          <a href="#technology-used">Core technologies</a>
+        </li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -85,15 +88,15 @@ Pesticides retailers will use a secondary application to be able to post the pro
 
 ### Technology used
 
-- Font-End: [Java](https://getbootstrap.com), [Kotlin](https://getbootstrap.com), [Dart](https://getbootstrap.com).
+- Font-End: [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Dart](https://dart.dev/).
 
-- Back-End: [Node.js](https://getbootstrap.com) (Express.js), [Php](https://getbootstrap.com) (Larvel).
-- IDE: [Android studio](https://getbootstrap.com), [VS Code](https://getbootstrap.com) (Larvel), [Pycharm](https://getbootstrap.com) (Larvel).
+- Back-End: [Node.js](https://nodejs.dev/) (Express.js), [Php](https://www.php.net/) (Larvel).
+- IDE: [Android studio](https://developer.android.com/studio), [VS Code](https://code.visualstudio.com/) (Larvel), [Pycharm](https://www.jetbrains.com/pycharm/).
 
 ### Core technologies
 
-- [AI](https://getbootstrap.com)
+- [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [RS](https://jquery.com)
-- [Openweather API](https://laravel.com)
+- [Openweather API](https://openweathermap.org/)
 
 <!-- GETTING STARTED -->

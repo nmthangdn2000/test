@@ -5,11 +5,12 @@
     <img src="images/logo.png" alt="Logo" width="180">
   </a>
 
-  <h2 align="center"><b>WREF</b></h2>
+  <h3 align="center"><b>WREF</b></h3>
 
   <p align="center">
-    Mobile Agriculture Application provide the best services to Vietnamese farmers and pesticide shops
+    Mobile Agriculture Application
     <br />
+    Provide the best services to Vietnamese farmers and pesticide shops
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -50,7 +51,7 @@
 
 ## About The Project
 
-<p  float="left">
+<p  float="left" align="middle">
   <img src="images/about1.jpg" alt="about1" width="180"> 
   <img src="images/about2.jpg" alt="about2" width="180">
   <img src="images/about3.jpg" alt="about3" width="180">
